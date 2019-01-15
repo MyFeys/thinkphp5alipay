@@ -1,5 +1,0 @@
-<?php
-/**
- * PhpStorm
- */
-echo 'hello!';
