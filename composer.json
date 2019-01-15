@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "alipay_app\\thinkphp5\\app": "src/"
+            "alipay_app\\thinkphp5\\aop": "src/"
         }
     }
 }
