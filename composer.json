@@ -1,0 +1,21 @@
+{
+    "name": "alipay_app/thinkphp5",
+    "description": "thinkphp5 is alipayrsa app pay",
+    "license": "MIT",
+    "keywords": ["thinkphp5 alipay app pay"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "kangshifu",
+            "email": "myfey@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "alipay_app\\thinkphp5\\app": "src/"
+        }
+    }
+}
